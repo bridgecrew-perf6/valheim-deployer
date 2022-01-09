@@ -1,0 +1,8 @@
+
+userpassword='"<Linux User Password>"'
+password='"<Valheim server password to connect>"'
+displayname='"<Valheim Server name>"'
+worldname='"<Valheim Unique World name>"'
+server_port='"2456"' # Can be changed use in groups of 4 port custom Example: 12456-12458 in firewall use Port 12456 in field
+server_name='<Directory name Valhiem Will user. Also Service name>'
+
